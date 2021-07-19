@@ -7,6 +7,8 @@
 3. Acredito que o teste é muito bom para selecionar Devs iniciantes e foi muito bom de desenvolver, mas me senti um pouco limitado, acho que não consegui 
 mostrar todo meu potencial com um projeto simples.
 
-4. Na parte de Build fiquei alguns minutos lendo as LOGs pra entender onde eu estava errando. Foi meu primeiro bundle. 😅
+4. Na parte de Build fiquei alguns minutos lendo as LOGs pra entender onde eu estava errando. Foi meu primeiro bundle. 
 
-#### Contudo, o APK está na pasta de build do android. Foi uma nova experiência usar o CLI e, provalvelmente, eu migre para ele definitivamente. Obrigado!!
+#### Contudo, o APK está na pasta de build do android. Foi uma nova experiência usar o CLI e acho que não vou mais usar o Expo depois desse projeto. 😅
+
+Obrigado!!
