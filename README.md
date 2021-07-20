@@ -1,5 +1,7 @@
 # PokeDev
 
+## Desenvolvimento:
+
 1. No começo tive algumas complicações ao instalar o CLI, pois sempre desenvolvi com Expo. 
 
 2. Na parte de desenvolvimento, achei tudo bem tranquilo. Consegui atender todas as sugestões de tecnologias sugeridas, pois lido com todas elas diariamente. 😍
@@ -8,6 +10,8 @@
 mostrar todo meu potencial com um projeto simples.
 
 4. Na parte de Build fiquei alguns minutos lendo as LOGs pra entender onde eu estava errando. Foi meu primeiro bundle. 
+
+
 
 #### Contudo, o APK está na pasta de build do android. Foi uma nova experiência usar o CLI e acho que não vou mais usar o Expo depois desse projeto. 😅
 
