@@ -1,5 +1,3 @@
-# PokeDev
-
 ## Desenvolvimento:
 
 1. No começo tive algumas complicações ao instalar o CLI, pois sempre desenvolvi com Expo. 
